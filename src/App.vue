@@ -1,6 +1,6 @@
 <template>
   <div id='app'>
-    <h1> BT3103 food shop </h1>
+    <h1> BT31033 food shop </h1>
     <router-view></router-view> 
   </div>
 
